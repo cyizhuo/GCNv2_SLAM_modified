@@ -1,5 +1,7 @@
 # GCNv2 SLAM
 
+Forked from <https://github.com/jiexiong2016/GCNv2_SLAM>
+
 ## 0.1、代码仓库介绍
 
 GCNv2 是替换 orbslam 中 orb 特征点的深度学习特征点，用于解决相机晃动过大时位姿丢失的问题。
